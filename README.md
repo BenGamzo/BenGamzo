@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @BenGamzo  
+- 👀 I’m interested in 3D printing, programming, and tech innovation  
+- 🌱 I’m currently learning Python through a Udemy course  
+- 🎓 I hold a diploma in Electrical Engineering and I'm now pursuing a B.Sc. in Computer Science at the Open University of Israel  
+- 💞️ I enjoy exploring new ideas and tinkering with creative projects  
+- 📫 How to reach me: [Your email or social link here]  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: Whether it's printing or coding, I enjoy learning by making things with my hands (or keyboard)  
